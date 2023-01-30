@@ -1,0 +1,8 @@
+# ninja log v5
+2	323	6967828249347638	CMakeFiles/FunctionFile.dir/main.cpp.obj	d35f6d6ae7996fe0
+323	413	6967828250222885	FunctionFile.exe	68fd0d87d5d9bac7
+2	251	6967833410983873	build.ninja	dfcdc5035c3bec2a
+6	362	6967833415203447	CMakeFiles/FunctionFile.dir/utils/greet.cpp.obj	ab9d6d1200f3447c
+3	372	6967833415283576	CMakeFiles/FunctionFile.dir/main.cpp.obj	d35f6d6ae7996fe0
+2	351	6967833551590289	CMakeFiles/FunctionFile.dir/main.cpp.obj	d35f6d6ae7996fe0
+351	439	6967833552447658	FunctionFile.exe	43a383eeb6afc2b0
