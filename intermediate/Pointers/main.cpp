@@ -3,11 +3,15 @@
 using namespace std;
 
 int main() {
-    int number = 10;
 
-    int *pNumber = &number;
-    
-    cout << "Pointer Number: " << pNumber << endl;
+    string food = "Pizza"; // A food variable of type string
+
+    string  *ptr = &food; // A pointer variable, with the name ptr, that stores the memory address of food
+
+    cout << *ptr  << endl;
+
+    cout << &food << endl; // Outputs the memory address of the food variable
+
 
     return 0;
 }
