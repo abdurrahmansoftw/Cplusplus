@@ -4,13 +4,17 @@ using namespace std;
 
 int main() {
 
-    string food = "Pizza"; // A food variable of type string
+    int number = 10;
+    int number2 = 20;
 
-    string  *ptr = &food; // A pointer variable, with the name ptr, that stores the memory address of food
+    int *pNumber = &number;
 
-    cout << *ptr  << endl;
+    *pNumber = 2;
+    pNumber = &number2;
+    *pNumber *= 3;
 
-    cout << &food << endl; // Outputs the memory address of the food variable
+    cout << number << endl;
+    cout << number2 << endl;
 
 
     return 0;
