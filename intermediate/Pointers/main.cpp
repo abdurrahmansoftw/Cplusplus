@@ -4,18 +4,11 @@ using namespace std;
 
 int main() {
 
-    int number = 10;
-    int number2 = 20;
+    const int number = 5;
 
-    int *pNumber = &number;
+    const int *pNumber = &number;
 
-    *pNumber = 2;
-    pNumber = &number2;
-    *pNumber *= 3;
-
-    cout << number << endl;
-    cout << number2 << endl;
-
+    cout << "The value of number is: " << number << endl;
 
     return 0;
 }
