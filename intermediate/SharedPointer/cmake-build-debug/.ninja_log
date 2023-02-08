@@ -1,0 +1,11 @@
+# ninja log v5
+0	302	6975422861210058	CMakeFiles/SharedPointer.dir/main.cpp.obj	883d568fc3a945bc
+303	375	6975422861916321	SharedPointer.exe	5d5df402df59e6c2
+2	306	6975422958413379	CMakeFiles/SharedPointer.dir/main.cpp.obj	883d568fc3a945bc
+306	373	6975422959072380	SharedPointer.exe	5d5df402df59e6c2
+2	425	6975424201507155	CMakeFiles/SharedPointer.dir/main.cpp.obj	883d568fc3a945bc
+425	501	6975424202244568	SharedPointer.exe	5d5df402df59e6c2
+3	426	6975424789796252	CMakeFiles/SharedPointer.dir/main.cpp.obj	883d568fc3a945bc
+427	516	6975424790659097	SharedPointer.exe	5d5df402df59e6c2
+3	471	6975424984512576	CMakeFiles/SharedPointer.dir/main.cpp.obj	883d568fc3a945bc
+471	553	6975424985303228	SharedPointer.exe	5d5df402df59e6c2
