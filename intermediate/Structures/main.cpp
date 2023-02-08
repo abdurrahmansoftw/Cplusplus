@@ -1,11 +1,9 @@
 #include <iostream>
 
 using namespace std;
-
 // Structures example:
 
 int main() {
-
     struct Person {
         string name;
         int age{};
