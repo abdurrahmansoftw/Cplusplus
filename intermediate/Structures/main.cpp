@@ -1,28 +1,36 @@
 #include <iostream>
 
 using namespace std;
-// Structures example:
+// define a structure for representing customers -id, name, address, phone, email ask user for those values and store them in a customer object and print the result.
+struct Customer {
+    int id;
+    string name;
+    string address;
+    string phone;
+    string email;
+};
 
 int main() {
-    struct Person {
-        string name;
-        int age{};
-        double height{};
-    };
+    Customer customer;
+    cout << "Enter customer id: ";
+    cin >> customer.id;
 
-    Person person1;
-    person1.name = "John";
-    person1.age = 32;
-    person1.height = 1.75;
+    cout << "Enter customer name: ";
+    cin >> customer.name;
 
-    Person person2;
-    person2.name = "Mary";
-    person2.age = 27;
-    person2.height = 1.65;
+    cout << "Enter customer address: ";
+    cin >> customer.address;
 
-    cout << person1.name << " is " << person1.age << " years old and is " << person1.height << " meters tall." << endl;
-    cout << person2.name << " is " << person2.age << " years old and is " << person2.height << " meters tall." << endl;
+    cout << "Enter customer phone: ";
+    cin >> customer.phone;
 
+    cout << "Enter customer email: ";
+    cin >> customer.email;
 
+    cout << "Customer id: " << customer.id << endl;
+    cout << "Customer name: " << customer.name << endl;
+    cout << "Customer address: " << customer.address << endl;
+    cout << "Customer phone: " << customer.phone << endl;
+    cout << "Customer email: " << customer.email << endl;
     return 0;
 }
