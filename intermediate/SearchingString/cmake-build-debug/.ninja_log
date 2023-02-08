@@ -1,0 +1,11 @@
+# ninja log v5
+0	323	6975440204928638	CMakeFiles/SearchingString.dir/main.cpp.obj	5093c428abc2720c
+325	398	6975440205653648	SearchingString.exe	daf4616e18d09187
+3	354	6975440342040873	CMakeFiles/SearchingString.dir/main.cpp.obj	5093c428abc2720c
+354	437	6975440342840231	SearchingString.exe	daf4616e18d09187
+3	341	6975440706000284	CMakeFiles/SearchingString.dir/main.cpp.obj	5093c428abc2720c
+341	414	6975440706726870	SearchingString.exe	daf4616e18d09187
+3	354	6975440803604787	CMakeFiles/SearchingString.dir/main.cpp.obj	5093c428abc2720c
+355	434	6975440804372814	SearchingString.exe	daf4616e18d09187
+2	351	6975440859577777	CMakeFiles/SearchingString.dir/main.cpp.obj	5093c428abc2720c
+351	426	6975440860313348	SearchingString.exe	daf4616e18d09187
