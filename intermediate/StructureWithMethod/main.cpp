@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// constructor use Method 1
+
 struct Date {
     int year;
     int month;
@@ -14,13 +16,10 @@ struct Movie {
     Date releaseDate;
     bool isPopular;
 
-    bool equals(const Movie &movie) const {
-        if (title == movie.title && releaseDate.year == movie.releaseDate.year &&
-            releaseDate.month == movie.releaseDate.month && releaseDate.day == movie.releaseDate.day &&
-            isPopular == movie.isPopular)
-            return true;
-        else
-            return false;
+    bool equals(const Movie &movie) {
+        return (title == movie.title && releaseDate.year == movie.releaseDate.year &&
+                releaseDate.month == movie.releaseDate.month && releaseDate.day == movie.releaseDate.day &&
+                isPopular == movie.isPopular);
     }
 };
 
