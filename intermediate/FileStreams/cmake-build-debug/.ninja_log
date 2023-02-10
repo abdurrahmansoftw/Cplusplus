@@ -1,0 +1,11 @@
+# ninja log v5
+1	594	6977405170916309	CMakeFiles/FileStreams.dir/main.cpp.obj	f4ec35cd74ea0ebe
+595	685	6977405171813592	FileStreams.exe	79ad49a9468db6b9
+4	616	6977406537112255	CMakeFiles/FileStreams.dir/main.cpp.obj	f4ec35cd74ea0ebe
+616	700	6977406537928896	FileStreams.exe	79ad49a9468db6b9
+2	628	6977408471158558	CMakeFiles/FileStreams.dir/main.cpp.obj	f4ec35cd74ea0ebe
+628	722	6977408472109060	FileStreams.exe	79ad49a9468db6b9
+3	557	6977408996293351	CMakeFiles/FileStreams.dir/main.cpp.obj	f4ec35cd74ea0ebe
+557	625	6977408996959270	FileStreams.exe	79ad49a9468db6b9
+3	627	6977409242361390	CMakeFiles/FileStreams.dir/main.cpp.obj	f4ec35cd74ea0ebe
+628	706	6977409243164990	FileStreams.exe	79ad49a9468db6b9
