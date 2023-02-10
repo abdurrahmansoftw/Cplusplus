@@ -7,12 +7,23 @@
 
 
 class Rectangle {
-public:
-    int width, height;
 
+public:
     void draw();
 
     int getArea();
+
+    int getWidth() const;
+
+    void setWidth(int width);
+
+    int getHeight() const;
+
+    void setHeight(int height);
+
+private:
+    int width, height;
+
 
 };
 
