@@ -7,6 +7,7 @@
 
 
 class Rectangle {
+public:
     int width, height;
 
     void draw();
