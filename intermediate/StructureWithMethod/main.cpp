@@ -21,14 +21,12 @@ struct Movie {
                 releaseDate.month == movie.releaseDate.month && releaseDate.day == movie.releaseDate.day &&
                 isPopular == movie.isPopular);
     }
-
-
 };
 
 int main() {
 
     Movie movie1 = {"The Matrix", {1999, 3, 31}, true};
-    Movie movie2 = {"The Matrix", {1999, 3, 31}, true};
+    Movie movie2 = {"The Matrix", {1998, 3, 31}, true};
 
     cout << (movie1 == movie2 ? "The movies are the same" : "The movies are different") << endl;
 
