@@ -2,14 +2,23 @@
 
 using namespace std;
 
-// Enumeration Expression and example
+// strongly type Enumeration Expression and example
 
-enum Action {
-    List,
+enum class Action {
+    List = 1,
     Add,
     Edit,
     Exit
 };
+
+
+enum class Operation {
+    List = 1,
+    Add,
+    Edit,
+    Exit
+};
+
 
 int main() {
     cout << " 1: List Invoice" << endl
@@ -21,16 +30,16 @@ int main() {
     int input;
     cin >> input;
 
-    if (input == Action::List) {
+    if (input == static_cast<int>(Action::List))
         cout << "List Invoice" << endl;
-    } else if (input == Action::Add) {
+    else if (input == static_cast<int>(Action::Add))
         cout << "Add Invoice" << endl;
-    } else if (input == Action::Edit) {
+    else if (input == static_cast<int>(Action::Edit))
         cout << "Edit Invoice" << endl;
-    } else if (input == Action::Exit) {
+    else if (input == static_cast<int>(Action::Exit))
         cout << "Exit" << endl;
-    } else {
-        cout << "Invalid option" << endl;
-    }
+    else
+        cout << "Invalid Option" << endl;
+
     return 0;
 }
