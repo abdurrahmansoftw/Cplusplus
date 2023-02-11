@@ -9,7 +9,6 @@ void showPerson(Person person) {
 
 int main() {
     Person person(10);
-    showPerson(20); // implicit conversion
 
     return 0;
 }
