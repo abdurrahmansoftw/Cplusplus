@@ -1,3 +1,10 @@
 # ninja log v5
 0	595	6978156637014832	CMakeFiles/InheritanceAndPolymorphism.dir/main.cpp.obj	a934a1db84aeb384
 596	685	6978156637892051	InheritanceAndPolymorphism.exe	b2492a0c7de0a9f2
+9	83	6978163150647489	CMakeFiles/InheritanceAndPolymorphism.dir/Widget.cpp.obj	c23ea4454210b6bc
+3	549	6978163155295729	CMakeFiles/InheritanceAndPolymorphism.dir/main.cpp.obj	a934a1db84aeb384
+6	584	6978163155637283	CMakeFiles/InheritanceAndPolymorphism.dir/TextBox.cpp.obj	8728ec824bd75c60
+584	710	6978163156873152	InheritanceAndPolymorphism.exe	f0b21a968d15a5a2
+3	512	6978164056459916	CMakeFiles/InheritanceAndPolymorphism.dir/main.cpp.obj	a934a1db84aeb384
+5	540	6978164056742670	CMakeFiles/InheritanceAndPolymorphism.dir/TextBox.cpp.obj	8728ec824bd75c60
+540	628	6978164057603576	InheritanceAndPolymorphism.exe	f0b21a968d15a5a2

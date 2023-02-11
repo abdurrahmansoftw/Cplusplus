@@ -3,4 +3,4 @@ project(InheritanceAndPolymorphism)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(InheritanceAndPolymorphism main.cpp)
+add_executable(InheritanceAndPolymorphism main.cpp Widget.cpp Widget.h TextBox.cpp TextBox.h)
