@@ -5,6 +5,7 @@
 #include "TextBox.h"
 
 TextBox::TextBox(const string &value) {
+    this -> width;
     this->value = value;
 }
 

@@ -1,5 +1,6 @@
 #include <iostream>
 #include "TextBox.h"
+#include "Widget.h"
 
 using namespace std;
 
@@ -7,10 +8,10 @@ int main() {
 
     TextBox Box;
 
-    Box.disable();
+    Widget widget;
 
-    cout << Box.isEnabled() << endl;
+    widget.
 
-    cout << "inheritance and polymorphism!" << endl;
+
     return 0;
 }

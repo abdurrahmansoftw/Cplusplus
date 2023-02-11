@@ -17,6 +17,8 @@ public:
 private:
     bool enabled;
 
+protected:
+    int width;
 
 };
 
