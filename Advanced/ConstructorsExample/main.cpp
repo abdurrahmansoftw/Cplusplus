@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-    Rectangle rect{-10, 20};
+    Rectangle rect{10, 20};
 
     cout << rect.getWidth() << endl;
 

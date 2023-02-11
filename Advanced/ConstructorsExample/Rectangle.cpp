@@ -38,7 +38,8 @@ void Rectangle::setHeight(int height) {
 }
 
 Rectangle::Rectangle(int width, int height) {
-    cout<< "Constructor called" << endl;
+    cout << "Constructor called" << endl;
     setWidth(width);
     setHeight(height);
 }
+

@@ -10,8 +10,9 @@ class Rectangle {
 
 public:
 
+    Rectangle() = default; // default constructor
 
-    Rectangle(int width, int height);
+    Rectangle(int width, int height); // constructor
 
     int draw() const;
 
