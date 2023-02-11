@@ -2,17 +2,19 @@
 
 using namespace std;
 
-int larger(int first, int second) {
+template<typename T>
+
+T larger(T first, T second) {
     return first > second ? first : second;
 }
 
-double larger(double first, double second) {
-    return first > second ? first : second;
-}
 
 int main() {
 
     larger(1, 2);
+    larger(1.0, 2.0);
+    larger('a', 'b');
+
 
     return 0;
 }
