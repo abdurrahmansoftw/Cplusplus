@@ -9,7 +9,7 @@ class SmartPtr {
 private:
     T *ptr;
 public:
-    SmartPtr(T *p = nullptr) : ptr(p) {}
+    explicit SmartPtr(T *p = nullptr) : ptr(p) {}
 
     ~SmartPtr() { delete ptr; }
 
