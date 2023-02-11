@@ -8,17 +8,24 @@ T large(T firstNumber, T secondNumber) {
     return firstNumber > secondNumber ? firstNumber : secondNumber;
 }
 
+template<typename K, typename V>
+
+void display(K key, V value) {
+    cout << key << " : " << value << endl;
+}
+
+
 int main() {
-    auto result = large(10, 20);
-    auto result2 = large(10.5, 20.5);
-    auto result3 = large('a', 'b');
-    auto result4 = large("Hello", "World");
+    display(1, "Hello");
+    display(2, "World");
+    display(3, "C++");
+    display(4, "Programming");
+    display(5, "Language");
+    display(6, "Template");
+    display(7, "Function");
+    display(8, "Generic");
+    display(9, "Programming");
 
-
-    cout << result << endl;
-    cout << result2 << endl;
-    cout << result3 << endl;
-    cout << result4 << endl;
 
     return 0;
 }
