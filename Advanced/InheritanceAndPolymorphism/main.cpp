@@ -10,7 +10,7 @@ int main() {
 
     Widget widget;
 
-    widget.
+    widget.width(20);
 
 
     return 0;
