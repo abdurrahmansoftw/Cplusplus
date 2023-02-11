@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Lengths.h"
+#include <compare>
 
 using namespace std;
 
@@ -7,11 +8,14 @@ using namespace std;
 
 int main() {
 
-    Lengths first{1};
-    Lengths second{2};
+    Lengths l1(10);
+    Lengths l2(20);
 
+    cout << (l1 == l2) << endl;
 
-    first == second ? cout << "Equal" : cout << "Not Equal";
+    if (l1 == l2) {
+        cout << "l1 is equal to 10" << endl;
+    }
 
     return 0;
 }

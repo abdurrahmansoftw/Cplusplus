@@ -12,3 +12,31 @@ Lengths::Lengths(int value) : value(value) {}
 bool Lengths::operator==(const Lengths &other) const {
     return value == other.value;
 }
+
+bool Lengths::operator==(const int &other) const {
+    return value == other;
+}
+
+bool Lengths::operator!=(const int &other) const {
+    return value != other;
+}
+
+std::strong_ordering Lengths::operator<=>(const Lengths &other) const {
+    return value <=> other.value;
+}
+
+bool Lengths::operator<(const int &other) const {
+    return value < other;
+}
+
+bool Lengths::operator>(const int &other) const {
+    return value > other;
+}
+
+bool Lengths::operator<=(const int &other) const {
+    return value <= other;
+}
+
+bool Lengths::operator>=(const int &other) const {
+    return value >= other;
+}
