@@ -1,0 +1,16 @@
+# ninja log v5
+0	329	6977923286332408	CMakeFiles/ConstructorsExample.dir/main.cpp.obj	9b4a2e75c6e9c5b3
+3	340	6977923286457494	CMakeFiles/ConstructorsExample.dir/Rectangle.cpp.obj	eb9a22e0ac3c746a
+340	429	6977923287317037	ConstructorsExample.exe	d9dc1c8348399f4a
+2	335	6977924371266733	CMakeFiles/ConstructorsExample.dir/main.cpp.obj	9b4a2e75c6e9c5b3
+6	349	6977924371417053	CMakeFiles/ConstructorsExample.dir/Rectangle.cpp.obj	eb9a22e0ac3c746a
+349	423	6977924372122065	ConstructorsExample.exe	d9dc1c8348399f4a
+2	334	6977925533312046	CMakeFiles/ConstructorsExample.dir/main.cpp.obj	9b4a2e75c6e9c5b3
+334	420	6977925534147206	ConstructorsExample.exe	d9dc1c8348399f4a
+4	357	6977925915347094	CMakeFiles/ConstructorsExample.dir/main.cpp.obj	9b4a2e75c6e9c5b3
+358	455	6977925916248653	ConstructorsExample.exe	d9dc1c8348399f4a
+3	397	6977928060605564	CMakeFiles/ConstructorsExample.dir/main.cpp.obj	9b4a2e75c6e9c5b3
+6	399	6977928060605564	CMakeFiles/ConstructorsExample.dir/Rectangle.cpp.obj	eb9a22e0ac3c746a
+399	500	6977928061601934	ConstructorsExample.exe	d9dc1c8348399f4a
+3	442	6977928290599474	CMakeFiles/ConstructorsExample.dir/main.cpp.obj	9b4a2e75c6e9c5b3
+443	579	6977928291934686	ConstructorsExample.exe	d9dc1c8348399f4a
