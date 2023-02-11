@@ -1,0 +1,6 @@
+# ninja log v5
+5	115	6978136845112190	CMakeFiles/OperatorOverloadingProblem.dir/Points.cpp.obj	f145080090c266d8
+1	597	6978136849884793	CMakeFiles/OperatorOverloadingProblem.dir/main.cpp.obj	be6ba68a0f7a5c53
+598	698	6978136850884637	OperatorOverloadingProblem.exe	d42bddbc7602acfa
+2	585	6978137006919578	CMakeFiles/OperatorOverloadingProblem.dir/main.cpp.obj	be6ba68a0f7a5c53
+585	705	6978137008106574	OperatorOverloadingProblem.exe	d42bddbc7602acfa
