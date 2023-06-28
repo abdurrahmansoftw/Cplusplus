@@ -8,13 +8,11 @@ T larger(T first, T second) {
     return first > second ? first : second;
 }
 
-
 int main() {
 
-    larger(1, 2);
-    larger(1.0, 2.0);
-    larger('a', 'b');
-
+    auto result = larger(5, 3);
+    auto result1 = larger(1.0, 2.0);
+    auto result2 = larger('a', 'b');
 
     return 0;
 }

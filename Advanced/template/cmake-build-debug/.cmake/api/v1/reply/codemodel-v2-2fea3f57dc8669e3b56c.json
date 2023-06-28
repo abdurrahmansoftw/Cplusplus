@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/01. Porgramming/C++/Advanced/template/cmake-build-debug",
-		"source" : "D:/01. Porgramming/C++/Advanced/template"
+		"build" : "D:/02. Porgramming/C++/Advanced/template/cmake-build-debug",
+		"source" : "D:/02. Porgramming/C++/Advanced/template"
 	},
 	"version" : 
 	{
