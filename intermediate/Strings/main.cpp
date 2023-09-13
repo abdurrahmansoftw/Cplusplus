@@ -6,6 +6,7 @@ int main() {
 
     string firstName;
     string lastName;
+    string fullName;
 
     cout << "Enter your first name: ";
     cin >> firstName;
@@ -13,10 +14,15 @@ int main() {
     cout << "Enter your last name: ";
     cin >> lastName;
 
-    cout << firstName.back() << " " << lastName << endl;
+    fullName.insert(0, "i am ");
 
-    cout << "Hello, " << firstName << " " << lastName << endl;
+    fullName.append(firstName + " " + lastName);
+    fullName.append(" and i am a programmer");
 
+
+    fullName.erase(0, 3);
+
+    cout << fullName << endl;
 
     return 0;
 }

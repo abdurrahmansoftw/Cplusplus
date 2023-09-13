@@ -1,4 +1,5 @@
 #include <iostream>
+#include "MyClass.h"
 
 using namespace std;
 
@@ -12,3 +13,5 @@ int main() {
 
     return 0;
 }
+
+MyClass::MyClass(const string &myString) : myString(myString) {}

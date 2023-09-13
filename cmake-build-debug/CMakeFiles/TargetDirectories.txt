@@ -1,0 +1,3 @@
+/media/abdurrahman/Developments/02. Porgramming/C++/cmake-build-debug/CMakeFiles/C__.dir
+/media/abdurrahman/Developments/02. Porgramming/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/abdurrahman/Developments/02. Porgramming/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

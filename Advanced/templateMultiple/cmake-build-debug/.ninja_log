@@ -1,13 +1,4 @@
 # ninja log v5
-0	526	6978202481599938	CMakeFiles/templateMultiple.dir/main.cpp.obj	e66c89e29239059f
-528	608	6978202482398326	templateMultiple.exe	e85dcd86fc179749
-3	501	6978202777862466	CMakeFiles/templateMultiple.dir/main.cpp.obj	e66c89e29239059f
-501	607	6978202778914104	templateMultiple.exe	e85dcd86fc179749
-2	599	6978206722233581	CMakeFiles/templateMultiple.dir/main.cpp.obj	e66c89e29239059f
-600	701	6978206723214563	templateMultiple.exe	e85dcd86fc179749
-3	509	6978206858407051	CMakeFiles/templateMultiple.dir/main.cpp.obj	e66c89e29239059f
-509	596	6978206859249288	templateMultiple.exe	e85dcd86fc179749
-2	512	6978206984061492	CMakeFiles/templateMultiple.dir/main.cpp.obj	e66c89e29239059f
-512	595	6978206984867612	templateMultiple.exe	e85dcd86fc179749
-3	603	6978207088004999	CMakeFiles/templateMultiple.dir/main.cpp.obj	e66c89e29239059f
 603	700	6978207088982096	templateMultiple.exe	e85dcd86fc179749
+0	362	1693828574163349900	CMakeFiles/templateMultiple.dir/main.cpp.o	e11b62bc2413896b
+367	429	1693828574229441400	templateMultiple	d483a1aaf292af78

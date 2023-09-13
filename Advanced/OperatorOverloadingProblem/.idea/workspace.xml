@@ -21,12 +21,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7ce8f63-955a-4421-8667-a1222adf613e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OperatorOverloadingProblem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Points.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Points.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperatorOverloading/Lengths.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../OperatorOverloading/Lengths.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperatorOverloading/Lengths.h" beforeDir="false" afterPath="$PROJECT_DIR$/../OperatorOverloading/Lengths.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperatorOverloading/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../OperatorOverloading/cmake-build-debug/.ninja_deps" afterDir="false" />
@@ -231,10 +225,12 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/01. Porgramming/C++/Advanced/OperatorOverloading",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "structure.view.defaults.are.configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -259,7 +255,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676110171240</updated>
-      <workItem from="1676110172112" duration="303000" />
+      <workItem from="1676110172112" duration="566000" />
     </task>
     <servers />
   </component>

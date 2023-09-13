@@ -5,21 +5,32 @@ using namespace std;
 // Dynamic memory allocation example:
 
 int main() {
-    // int numbers[5000];
+    int capacity = 5;
+    int *numbers = new int[capacity];
+    int entries = 0;
 
-    // heap (free store)
+    while (true) {
+        cout << "Enter a number: ";
+        cin >> numbers[entries];
+        if (cin.fail()) break;
+        entries++;
 
-    int *pNumbers = new int[10];
+        if (entries == capacity) {
+            capacity *= 2;
+            int *temp = new int[capacity];
 
-    int *pOtherNumbers = new int;
+            for (int i = 0; i < entries; ++i) {
+                temp[i] = numbers[i];
+            }
+            delete[] numbers;
+            numbers = temp;
+        }
+    }
 
-    delete pOtherNumbers;
+    for (int i = 0; i < entries; i++)
+        cout << numbers[i] << endl;
 
-    delete[] pNumbers;
-
-    cout << "Hello World!" << endl;
-
-
+    delete[] numbers;
 
     return 0;
 }

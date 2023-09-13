@@ -4,9 +4,16 @@
 using namespace std;
 
 int main() {
-    Rectangle firstRect;
-    firstRect.setWidth(10);
-    firstRect.setHeight(5);
+    Rectangle firstRect{};
+    int width, height;
+
+    cout << "Enter width: ";
+    cin >> width;
+    cout << "Enter height: ";
+    cin >> height;
+
+    firstRect.setWidth(width);
+    firstRect.setHeight(height);
 
     cout << "Area: " << firstRect.getArea() << endl;
 

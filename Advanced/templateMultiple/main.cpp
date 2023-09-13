@@ -26,6 +26,5 @@ int main() {
     display(8, "Generic");
     display(9, "Programming");
 
-
     return 0;
 }

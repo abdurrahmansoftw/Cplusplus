@@ -1,7 +1,6 @@
 #include <iostream>
 #include <iomanip>
 
-
 using namespace std;
 
 int main() {
@@ -31,7 +30,5 @@ int main() {
 
     cout << street << endl
          << city << ", " << state << " " << zipCode << name << endl;
-
-
     return 0;
 }
