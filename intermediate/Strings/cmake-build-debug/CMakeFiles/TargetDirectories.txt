@@ -1,3 +1,0 @@
-D:/01. Porgramming/C++/intermediate/Strings/cmake-build-debug/CMakeFiles/Strings.dir
-D:/01. Porgramming/C++/intermediate/Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/01. Porgramming/C++/intermediate/Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

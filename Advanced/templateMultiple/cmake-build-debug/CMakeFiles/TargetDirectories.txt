@@ -1,3 +1,0 @@
-/media/abdurrahman/Developments/02. Porgramming/C++/Advanced/templateMultiple/cmake-build-debug/CMakeFiles/templateMultiple.dir
-/media/abdurrahman/Developments/02. Porgramming/C++/Advanced/templateMultiple/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/abdurrahman/Developments/02. Porgramming/C++/Advanced/templateMultiple/cmake-build-debug/CMakeFiles/rebuild_cache.dir

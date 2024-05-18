@@ -1,9 +1,0 @@
-# ninja log v5
-0	567	6977420141827304	CMakeFiles/StringParsing.dir/main.cpp.obj	ee091e21db4e911
-568	666	6977420142800191	StringParsing.exe	346cf6b422256d1d
-3	550	6977420720875466	CMakeFiles/StringParsing.dir/main.cpp.obj	ee091e21db4e911
-550	635	6977420721708656	StringParsing.exe	346cf6b422256d1d
-2	541	6977420900907225	CMakeFiles/StringParsing.dir/main.cpp.obj	ee091e21db4e911
-541	623	6977420901710460	StringParsing.exe	346cf6b422256d1d
-3	590	6977422180369492	CMakeFiles/StringParsing.dir/main.cpp.obj	ee091e21db4e911
-590	689	6977422181298380	StringParsing.exe	346cf6b422256d1d

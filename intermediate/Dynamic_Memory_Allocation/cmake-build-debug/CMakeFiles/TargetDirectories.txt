@@ -1,3 +1,0 @@
-D:/01. Porgramming/C++/intermediate/Dynamic_Memory_Allocation/cmake-build-debug/CMakeFiles/Dynamic_Memory_Allocation.dir
-D:/01. Porgramming/C++/intermediate/Dynamic_Memory_Allocation/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/01. Porgramming/C++/intermediate/Dynamic_Memory_Allocation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-D:/01. Porgramming/C++/intermediate/Problem1/cmake-build-debug/CMakeFiles/Problem1.dir
-D:/01. Porgramming/C++/intermediate/Problem1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/01. Porgramming/C++/intermediate/Problem1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

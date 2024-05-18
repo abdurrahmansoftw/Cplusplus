@@ -1,3 +1,0 @@
-D:/01. Porgramming/C++/intermediate/ExtractingSubstring/cmake-build-debug/CMakeFiles/ExtractingSubstring.dir
-D:/01. Porgramming/C++/intermediate/ExtractingSubstring/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/01. Porgramming/C++/intermediate/ExtractingSubstring/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-D:/01. Porgramming/C++/Advanced/SimpleOPP/cmake-build-debug/CMakeFiles/SimpleOPP.dir
-D:/01. Porgramming/C++/Advanced/SimpleOPP/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/01. Porgramming/C++/Advanced/SimpleOPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

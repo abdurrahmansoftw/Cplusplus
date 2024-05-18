@@ -1,3 +1,0 @@
-D:/01. Porgramming/C++/intermediate/simple/cmake-build-debug/CMakeFiles/simple.dir
-D:/01. Porgramming/C++/intermediate/simple/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/01. Porgramming/C++/intermediate/simple/cmake-build-debug/CMakeFiles/rebuild_cache.dir

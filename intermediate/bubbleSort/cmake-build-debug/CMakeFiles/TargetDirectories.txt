@@ -1,3 +1,0 @@
-D:/01. Porgramming/C++/intermediate/bubbleSort/cmake-build-debug/CMakeFiles/bubbleSort.dir
-D:/01. Porgramming/C++/intermediate/bubbleSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/01. Porgramming/C++/intermediate/bubbleSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

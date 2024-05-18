@@ -1,9 +1,0 @@
-# ninja log v5
-0	454	6975418864036629	CMakeFiles/UniquePointers.dir/main.cpp.obj	b764c65f5ec7dac9
-467	540	6975418864877567	UniquePointers.exe	a39cb506caf37bce
-3	401	6975420221834998	CMakeFiles/UniquePointers.dir/main.cpp.obj	b764c65f5ec7dac9
-401	467	6975420222473601	UniquePointers.exe	a39cb506caf37bce
-3	439	6975420344887234	CMakeFiles/UniquePointers.dir/main.cpp.obj	b764c65f5ec7dac9
-439	514	6975420345593750	UniquePointers.exe	a39cb506caf37bce
-2	412	6975421019824643	CMakeFiles/UniquePointers.dir/main.cpp.obj	b764c65f5ec7dac9
-412	484	6975421020513559	UniquePointers.exe	a39cb506caf37bce
